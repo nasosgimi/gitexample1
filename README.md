@@ -4,4 +4,4 @@ dimiourgi8ike 31/10/2018
 
 #Tutorials
 
-Git & Git log {[www.google.gr]}
+*[Git & Git log] (http://git-class.gr)
